@@ -1,43 +1,43 @@
 Bus_Route_Recommender
 
-## Bus Route Recommendation System (KNN-Based)
+Bus Route Recommendation System (KNN-Based)
 A simple machine learning project that recommends bus routes based on user preferences using the K-Nearest Neighbors (KNN) algorithm.
 
 Project Overview
-## This project demonstrates a basic recommendation system built with:
+This project demonstrates a basic recommendation system built with:
 
-## Python
+# Python
 
-## Pandas
+# Pandas
 
-## Scikit-learn (KNN Algorithm)
+# Scikit-learn (KNN Algorithm)
 
-## The system suggests the most similar bus route based on:
+The system suggests the most similar bus route based on:
 
-## Distance (km)
+# Distance (km)
 
-## Travel Time (minutes)
+# Travel Time (minutes)
 
-## Popularity score
+# Popularity score
 
-## It uses Euclidean distance to find the closest matching routes.
+It uses Euclidean distance to find the closest matching routes.
 
-## Important Note
+Important Note
 This project does not use real-world or live transportation data.
 The dataset is manually created and predefined within the code.
 This project is developed purely for learning and demonstration purposes to understand how recommendation systems and the K-Nearest Neighbors algorithm work.
 
-## How It Works
+How It Works
 A dataset of bus routes is created (predefined inside the script).
 Features include:
 
-## Distance
+# Distance
 
-## Travel Time
+# Travel Time
 
-## Popularity
+# Popularity
 
-## The KNN model is trained using NearestNeighbors.
+The KNN model is trained using NearestNeighbors.
 The user enters their preferred route characteristics.
 The model recommends the closest matching route
 
