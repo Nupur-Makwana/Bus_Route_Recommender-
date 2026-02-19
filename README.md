@@ -5,13 +5,19 @@ A simple machine learning project that recommends bus routes based on user prefe
 
 Project Overview
 This project demonstrates a basic recommendation system built with:
+
 Python
+
 Pandas
+
 Scikit-learn (KNN Algorithm)
 
 The system suggests the most similar bus route based on:
+
 Distance (km)
+
 Travel Time (minutes)
+
 Popularity score
 
 It uses Euclidean distance to find the closest matching routes.
