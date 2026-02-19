@@ -4,8 +4,6 @@
 
 A simple machine learning project that recommends bus routes based on user preferences using the K-Nearest Neighbors (KNN) algorithm.
 
----
-
 ## Project Overview
 
 This project demonstrates a basic recommendation system built with:
@@ -22,15 +20,12 @@ The system suggests the most similar bus route based on:
 
 It uses **Euclidean distance** to find the closest matching routes.
 
----
-
 ## Important Note
 
 - This project does not use real-world or live transportation data.
 - The dataset is manually created and predefined within the code.
 - It is developed purely for learning and demonstration purposes.
 
----
 
 ## How It Works
 
