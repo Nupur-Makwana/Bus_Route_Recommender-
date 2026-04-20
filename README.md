@@ -1,46 +1,60 @@
-# Bus_Route_Recommender
+#  Bus Route Recommendation System (ML-Based)
 
-## Bus Route Recommendation System (KNN-Based)
+A smart transit route recommendation system that suggests the best bus route based on user preferences using Machine Learning.
 
-A simple machine learning project that recommends bus routes based on user preferences using the K-Nearest Neighbors (KNN) algorithm.
+---
 
-## Project Overview
+##  Features
 
-This project demonstrates a basic recommendation system built with:
+*  Input source & destination
+*  Time, distance & popularity preferences
+*  ML-based route ranking (Random Forest)
+*  Best route + alternatives
+*  Simple responsive UI (Streamlit)
 
-- Python
-- Pandas
-- Scikit-learn (KNN Algorithm)
+---
 
-The system suggests the most similar bus route based on:
+##  Tech Stack
 
-- Distance (km)
-- Travel Time (minutes)
-- Popularity score
+* **Frontend:** Streamlit
+* **Backend Logic:** Python
+* **Machine Learning:** Scikit-learn (Random Forest)
+* **Data Handling:** Pandas
+* **Database :** MySQL
 
-It uses **Euclidean distance** to find the closest matching routes.
+---
 
-## Important Note
+##  Dataset
 
-- This project does not use real-world or live transportation data.
-- The dataset is manually created and predefined within the code.
-- It is developed purely for learning and demonstration purposes.
+* Synthetic dataset (100 routes)
+* Features:
 
+  * Distance (km)
+  * Travel Time (min)
+  * Popularity
+  * Stops Count
+* Used for training ML ranking model
 
-## How It Works
+---
 
-- A dataset of bus routes is created (predefined inside the script).
-- Features used:
-  - Distance
-  - Travel Time
-  - Popularity
-- The KNN model is trained using `NearestNeighbors`.
-- The user enters preferred route characteristics.
-- The model recommends the closest matching route.
+##  How It Works
 
+1. User enters route details
+2. System filters matching routes
+3. ML model ranks routes
+4. Best route + alternatives are shown
 
-## Sample Output
-<img width="435" height="285" alt="output png" src="https://github.com/user-attachments/assets/1702b60b-faff-4463-b37e-e494e5ec5b41" />
+---
 
+##  Future Improvements
 
+*  Real-time traffic integration
+*  Map-based UI (Google Maps)
+*  Nearest bus stop detection
+*  Deployment (cloud hosting)
 
+---
+
+##  Author
+
+Nupur Makwana
