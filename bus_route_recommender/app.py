@@ -6,11 +6,15 @@ Created on Mon Apr 20 18:06:14 2026
 """
 import streamlit as st
 import pandas as pd
+import os
 import joblib
 
 # Load model + data
+
+
+if not os.path.exists("model.pkl"):
+    import train   # runs training script
 model = joblib.load("model.pkl")
-df = pd.read_csv("routes.csv")
 
 st.title("🚌 Bus Route Recommendation System")
 
