@@ -10,7 +10,7 @@ A smart transit route recommendation system that suggests the best bus route bas
 *  Time, distance & popularity preferences
 *  ML-based route ranking (Random Forest)
 *  Best route + alternatives
-*  Simple responsive UI (Streamlit)
+*  Simple responsive UI for both dekstop and mobile phone screen(Streamlit)
 
 ---
 
@@ -54,7 +54,15 @@ A smart transit route recommendation system that suggests the best bus route bas
 *  Deployment (cloud hosting)
 
 ---
+## Preview : 
+<img width="378" height="502" alt="image" src="https://github.com/user-attachments/assets/42142cfc-76a6-451e-a8df-da3f95b56f1c" />
 
+
+---
+#Live Demo : 
+
+https://smartbus-ai.streamlit.app/
+---
 ##  Author
 
 Nupur Makwana
