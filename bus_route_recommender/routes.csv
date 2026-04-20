@@ -1,0 +1,101 @@
+route_id,source_stop,destination_stop,distance_km,travel_time_min,popularity,stops_count
+R1,Rohini,Dwarka,9,22,45,4
+R2,Pitampura,Noida Sector 15,16,38,50,5
+R3,Punjabi Bagh,Laxmi Nagar,23,54,65,6
+R4,Dwarka,ISBT Kashmere Gate,6,16,70,7
+R5,Noida Sector 15,Rajouri Garden,13,32,80,8
+R6,Laxmi Nagar,Saket,20,45,55,9
+R7,ISBT Kashmere Gate,Hauz Khas,3,9,60,10
+R8,Rajouri Garden,Rohini,11,28,75,11
+R9,Saket,Pitampura,18,42,90,12
+R10,Hauz Khas,Punjabi Bagh,25,58,85,13
+R11,Rohini,Noida Sector 15,14,33,52,14
+R12,Pitampura,Laxmi Nagar,7,18,67,3
+R13,Punjabi Bagh,Dwarka,12,30,73,4
+R14,Dwarka,Rajouri Garden,5,14,88,5
+R15,Noida Sector 15,Saket,21,49,91,6
+R16,Laxmi Nagar,Hauz Khas,10,26,60,7
+R17,ISBT Kashmere Gate,Rohini,8,20,54,8
+R18,Rajouri Garden,Pitampura,17,40,79,9
+R19,Saket,Punjabi Bagh,24,56,83,10
+R20,Hauz Khas,Dwarka,2,7,95,11
+R21,Rohini,Laxmi Nagar,15,35,46,12
+R22,Pitampura,ISBT Kashmere Gate,22,52,68,13
+R23,Punjabi Bagh,Rajouri Garden,9,23,77,14
+R24,Dwarka,Hauz Khas,18,41,84,3
+R25,Noida Sector 15,Rohini,6,17,59,4
+R26,Laxmi Nagar,Pitampura,11,27,66,5
+R27,ISBT Kashmere Gate,Punjabi Bagh,19,44,72,6
+R28,Rajouri Garden,Dwarka,4,12,89,7
+R29,Saket,Noida Sector 15,23,53,93,8
+R30,Hauz Khas,Laxmi Nagar,14,34,81,9
+R31,Rohini,ISBT Kashmere Gate,8,21,47,10
+R32,Pitampura,Rajouri Garden,16,39,62,11
+R33,Punjabi Bagh,Saket,21,50,74,12
+R34,Dwarka,Noida Sector 15,5,13,87,13
+R35,Noida Sector 15,Hauz Khas,12,29,92,14
+R36,Laxmi Nagar,Rohini,20,47,58,3
+R37,ISBT Kashmere Gate,Pitampura,7,19,63,4
+R38,Rajouri Garden,Punjabi Bagh,10,25,78,5
+R39,Saket,Dwarka,24,55,96,6
+R40,Hauz Khas,Rajouri Garden,13,31,83,7
+R41,Rohini,Saket,9,22,49,8
+R42,Pitampura,Hauz Khas,18,43,71,9
+R43,Punjabi Bagh,ISBT Kashmere Gate,6,15,64,10
+R44,Dwarka,Laxmi Nagar,15,36,86,11
+R45,Noida Sector 15,Pitampura,22,51,90,12
+R46,Laxmi Nagar,Rajouri Garden,11,28,57,13
+R47,ISBT Kashmere Gate,Dwarka,3,10,69,14
+R48,Rajouri Garden,Saket,17,41,82,3
+R49,Saket,Hauz Khas,25,59,94,4
+R50,Hauz Khas,Rohini,8,20,53,5
+R51,Rohini,Punjabi Bagh,12,30,76,6
+R52,Pitampura,Dwarka,19,45,88,7
+R53,Punjabi Bagh,Noida Sector 15,14,33,61,8
+R54,Dwarka,Saket,6,16,85,9
+R55,Noida Sector 15,Laxmi Nagar,21,49,97,10
+R56,Laxmi Nagar,ISBT Kashmere Gate,10,26,55,11
+R57,ISBT Kashmere Gate,Rajouri Garden,5,14,70,12
+R58,Rajouri Garden,Hauz Khas,16,38,81,13
+R59,Saket,Rohini,23,54,92,14
+R60,Hauz Khas,Pitampura,9,23,60,3
+R61,Rohini,Dwarka,18,42,78,4
+R62,Pitampura,Noida Sector 15,7,18,65,5
+R63,Punjabi Bagh,Laxmi Nagar,24,56,88,6
+R64,Dwarka,ISBT Kashmere Gate,3,9,93,7
+R65,Noida Sector 15,Rajouri Garden,13,31,74,8
+R66,Laxmi Nagar,Saket,20,46,80,9
+R67,ISBT Kashmere Gate,Hauz Khas,11,27,66,10
+R68,Rajouri Garden,Rohini,6,15,58,11
+R69,Saket,Pitampura,17,40,91,12
+R70,Hauz Khas,Punjabi Bagh,22,52,84,13
+R71,Rohini,Noida Sector 15,8,20,47,14
+R72,Pitampura,Laxmi Nagar,15,35,72,3
+R73,Punjabi Bagh,Dwarka,9,23,79,4
+R74,Dwarka,Rajouri Garden,5,13,86,5
+R75,Noida Sector 15,Saket,21,50,95,6
+R76,Laxmi Nagar,Hauz Khas,12,29,63,7
+R77,ISBT Kashmere Gate,Rohini,7,17,54,8
+R78,Rajouri Garden,Pitampura,18,43,77,9
+R79,Saket,Punjabi Bagh,24,57,89,10
+R80,Hauz Khas,Dwarka,4,11,98,11
+R81,Rohini,Laxmi Nagar,10,24,56,12
+R82,Pitampura,ISBT Kashmere Gate,19,44,69,13
+R83,Punjabi Bagh,Rajouri Garden,14,33,73,14
+R84,Dwarka,Hauz Khas,6,15,87,3
+R85,Noida Sector 15,Rohini,22,51,90,4
+R86,Laxmi Nagar,Pitampura,11,27,61,5
+R87,ISBT Kashmere Gate,Punjabi Bagh,8,19,68,6
+R88,Rajouri Garden,Dwarka,17,41,84,7
+R89,Saket,Noida Sector 15,25,58,96,8
+R90,Hauz Khas,Laxmi Nagar,13,32,82,9
+R91,Rohini,ISBT Kashmere Gate,9,22,50,10
+R92,Pitampura,Rajouri Garden,16,39,75,11
+R93,Punjabi Bagh,Saket,21,48,88,12
+R94,Dwarka,Noida Sector 15,5,12,93,13
+R95,Noida Sector 15,Hauz Khas,12,30,91,14
+R96,Laxmi Nagar,Rohini,20,47,59,3
+R97,ISBT Kashmere Gate,Pitampura,7,18,64,4
+R98,Rajouri Garden,Punjabi Bagh,10,25,78,5
+R99,Saket,Dwarka,24,55,97,6
+R100,Hauz Khas,Rajouri Garden,13,31,85,7
