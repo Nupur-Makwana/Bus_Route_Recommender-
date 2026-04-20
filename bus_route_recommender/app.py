@@ -11,10 +11,9 @@ import joblib
 
 # Load model + data
 
-
-if not os.path.exists("model.pkl"):
-    import train   # runs training script
-model = joblib.load("model.pkl")
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+model = joblib.load(os.path.join(BASE_DIR, "model.pkl"))
+df = pd.read_csv(os.path.join(BASE_DIR, "routes.csv"))
 
 st.title("🚌 Bus Route Recommendation System")
 
